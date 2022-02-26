@@ -1,6 +1,9 @@
 # AFR-Kit
 
-![1](https://user-images.githubusercontent.com/47783115/155862025-32eeb4c7-838c-4fec-bad2-f06ecbb56b7d.jpeg)
+
+<p align="center">
+  <img width="300" height="100" src="https://user-images.githubusercontent.com/47783115/155862025-32eeb4c7-838c-4fec-bad2-f06ecbb56b7d.jpeg">
+</p>
 
 ### Automation Flow Rate Program for Gasifier P3 
 
