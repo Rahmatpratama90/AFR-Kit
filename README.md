@@ -6,7 +6,7 @@
 * This program is Arduino program for AFR Kit Gasifier P3
 
 # II. Prerequisites
-(arduino.cc)[https://www.arduino.cc/]
+* (arduino.cc)[https://www.arduino.cc/]
 
 # III. How to install 
 
