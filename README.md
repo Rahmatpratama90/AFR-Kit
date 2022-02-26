@@ -7,7 +7,7 @@
 
 # II. Prerequisites
 
-* [arduino.cc](https://www.arduino.cc)
+* [arduino.cc](https://www.arduino.cc) - Used to program AFR kit program 
 
 # III. How to install 
 
