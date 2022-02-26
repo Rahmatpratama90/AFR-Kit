@@ -3,7 +3,7 @@
 ### Automation Flow Rate Program for Gasifier P3 
 
 # I. Introduction
-*This program is Arduino program for AFR Kit Gasifier P3
+* This program is Arduino program for AFR Kit Gasifier P3
 
 # II. Prerequisites
 (arduino.cc)[https://www.arduino.cc/]
