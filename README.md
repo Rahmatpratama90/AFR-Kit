@@ -7,7 +7,7 @@
 
 # II. Prerequisites
 
-* [arduino.cc](https://www.arduino.cc(
+* [arduino.cc](https://www.arduino.cc)
 
 # III. How to install 
 
