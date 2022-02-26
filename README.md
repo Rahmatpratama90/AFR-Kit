@@ -9,18 +9,26 @@
 * (arduino.cc)[https://www.arduino.cc/]
 
 # III. How to install 
+
 '''
+
 Download directly from Arduino Website
+
 '''
 
 Step 2 :
 
 '''
+
 Download the code 
+
 '''
 
 Step 3 :
 
 '''
+
 Open the code and upload it to the Arduino microcontroller
 '''
+
+
